@@ -4,7 +4,7 @@ I'm Owen, an incoming Computer Engineering student at the University of Illinois
 
 Here is my [resume](file:///C:/Users/owang/Downloads/Engineering%20Resume%20-%20Owen%20Wang.pdf) to learn more about me!
 
-### Skills 
+### Skills 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
