@@ -2,7 +2,7 @@
 
 I'm Owen, an incoming Computer Engineering student at the University of Illinois at Urbana-Champaign. My passion for programming and engineering stems from my love for building and problem solving. Whether developing games, websites, or small gadgets, I enjoy seeking new opportunites to apply my technical skills. I would love the opportunity to apply my technical skills in a real-world setting, and possibly benefit my community. In my spare time, I enjoy playing tennnis, practicing guitar, and spending time with friends. 
 
-Here is my [resume](file:///C:/Users/owang/Downloads/Engineering%20Resume%20-%20Owen%20Wang.pdf) so you can learn more about me!
+Here is my [resume](https://drive.google.com/file/d/11gNwNdEr6gb8WUp4cZpN5UZ5R5EG7sWD/view?usp=sharing) so you can learn more about me!
 
 ### Skills 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
