@@ -14,7 +14,7 @@ Here is my [resume](file:///C:/Users/owang/Downloads/Engineering%20Resume%20-%20
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Contact Me 🤝
-<a href="linkedin.com/in/owen-wang/" target="_blank">
+<a href="https://www.linkedin.com/in/owen-wang-284900216/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/owen._.wang11/" target="_blank">
