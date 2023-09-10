@@ -20,6 +20,6 @@ Here is my [resume](https://drive.google.com/file/d/11gNwNdEr6gb8WUp4cZpN5UZ5R5E
 <a href="https://www.instagram.com/owen._.wang11/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="mailto:owang420@gmail.com" target="_blank">
+<a href="mailto:owen.wang005@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram"/>
 </a>
