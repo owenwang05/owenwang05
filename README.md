@@ -5,7 +5,7 @@ I'm Owen, a Computer Engineering student at the University of Illinois at Urbana
 Here is my [resume](https://drive.google.com/file/d/1YkjhjUFMWGYmG_5dN0OKCjpZiQpm0OT8/view?usp=sharing) so you can learn more about me!
 
 ### Skills 💻
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
