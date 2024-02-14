@@ -2,7 +2,7 @@
 
 I'm Owen, a Computer Engineering student at the University of Illinois at Urbana-Champaign. My passion for programming and engineering stems from my love for building and problem solving. Whether developing games, websites, or small gadgets, I enjoy seeking new opportunites to apply my technical skills. I would love the opportunity to apply my technical skills in a real-world setting, and possibly benefit my community. In my spare time, I enjoy playing tennnis, practicing guitar, and spending time with friends. 
 
-Here is my [resume](https://drive.google.com/file/d/1YkjhjUFMWGYmG_5dN0OKCjpZiQpm0OT8/view?usp=sharing) so you can learn more about me!
+Here is my [resume](https://drive.google.com/file/d/1KTGpm0tKCBqxpv-tew3acyE-E9DIIPxn/view?usp=sharing) so you can learn more about me!
 
 ### Skills 💻
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
