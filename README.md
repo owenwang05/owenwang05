@@ -1,6 +1,12 @@
 # Heyy! Nice to meet you! 👋
 
-I'm Owen, a Computer Engineering student at the University of Illinois at Urbana-Champaign. My passion for programming and engineering stems from my love for building and problem solving. Whether developing games, websites, or small gadgets, I enjoy seeking new opportunites to apply my technical skills. I would love the opportunity to apply my technical skills in a real-world setting, and possibly benefit my community. In my spare time, you can catch me at the gym, playing tennis, or picking up new skills.
+I'm Owen, a Computer Engineering student at the University of Illinois at Urbana-Champaign. 
+
+Currently, I'm working as a Software Developer at Hydrologic using React, Tailwind, and Firebase to display statistics for University Housing. Furthermore, in the past, I have held a active software roles within UIUC's EV Concept and Vex Robotics teams. 
+
+Some topics I am currently interested in include: cloud computing, generative AI, machine learning, distributed systems, embedded systems. 
+
+In my spare time, you can catch me playings tennis, learning new skills, and working on personal projects. I'm always open to meeting new people, so feel free to message me about any new opportunities or if you would like to have a conversation!
 
 Here is my [resume](https://drive.google.com/file/d/1svD1zHL9mjnV4aJYk5vwx28pNLbDKOMi/view?usp=sharing) so you can learn more about me!
 
