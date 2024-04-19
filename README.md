@@ -9,6 +9,7 @@ Some topics I am currently interested in include: cloud computing, generative AI
 In my spare time, you can catch me playings tennis, learning new skills, and working on personal projects. I'm always open to meeting new people, so feel free to message me about any new opportunities or if you would like to have a conversation!
 
 Here is my [resume](https://drive.google.com/file/d/1svD1zHL9mjnV4aJYk5vwx28pNLbDKOMi/view?usp=sharing) so you can learn more about me!
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green) test
 
 ### Skills 💻
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
