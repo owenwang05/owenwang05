@@ -2,9 +2,9 @@
 
 I'm Owen, a Computer Engineering student at the University of Illinois at Urbana-Champaign. 
 
-Currently, I'm working as a Software Developer at Hydrologic using React, Tailwind, and Firebase to display statistics for University Housing. Furthermore, in the past, I have held a active software roles within UIUC's EV Concept and Vex Robotics teams. 
+Currently, I am an incoming Embedded Systems Engineer at JACS Solutions. Previously, I worked as a Software Developer at Hydrologic using React, Tailwind, and Firebase to display statistics for UIUC University Housing. Furthermore, I have held a active software roles within UIUC's EV Concept and Vex Robotics teams, working on machine learning and computer vision projects. 
 
-Some topics I am currently interested in include: cloud computing, generative AI, machine learning, distributed systems, embedded systems. 
+Some topics I am currently interested in include: embedded systems, parallel programming, cloud computing, AI, machine learning, and distributed systems
 
 In my spare time, you can catch me playings tennis, learning new skills, and working on personal projects. I'm always open to meeting new people, so feel free to message me about any new opportunities or if you would like to have a conversation!
 
