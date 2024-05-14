@@ -8,7 +8,7 @@ Some topics I am currently interested in include: parallel programming, embedded
 
 In my spare time, you can catch me playings tennis, learning new skills, and working on personal projects. I'm always open to meeting new people, so feel free to message me about any new opportunities or if you would like to have a conversation!
 
-Here is my [personal website](owenwang.netlify.app) so you can learn more about me!
+Here is my [personal website](https://owenwang.netlify.app/) so you can learn more about me!
 
 ### Skills 💻
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
