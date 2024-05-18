@@ -1,18 +1,18 @@
-# Heyy! Nice to meet you! 👋
+### Hey! Nice to meet you! 👋
 
 I'm Owen, a Computer Engineering student at the University of Illinois at Urbana-Champaign. 
 
 Currently, I am an Embedded Systems Engineer Intern at JACS Solutions. Previously, I worked as a Software Developer at Hydrologic using React, Tailwind, and Firebase to display statistics for UIUC University Housing. Furthermore, I have held a active software roles within UIUC's EV Concept and Vex Robotics teams, working on machine learning and computer vision projects. 
 
-Some topics I am currently interested in include: parallel programming, embedded systems, cloud computing, AI, machine learning, and distributed systems
-
-In my spare time, you can catch me playings tennis, learning new skills, and working on personal projects. I'm always open to meeting new people, so feel free to message me about any new opportunities or if you would like to have a conversation!
+Some topics I am currently interested in include: parallel programming, embedded systems, cloud computing, AI/ML, and distributed systems
 
 Here is my [personal website](https://owenwang.netlify.app/) so you can learn more about me!
 
 ### Skills 💻
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
