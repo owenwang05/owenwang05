@@ -1,18 +1,23 @@
-### Hey! Nice to meet you! 👋
+## Hey! Nice to meet you! 👋
 
-I'm Owen, a Computer Engineering student at the University of Illinois at Urbana-Champaign. 
+I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Machine Learning, Embedded Systems, Distributed Systems, and Parallel Programming. My goal is to utilize these technologies to address relevant issues within society. 
 
-Currently, I am an Embedded Systems Engineer Intern at JACS Solutions. Previously, I worked as a Software Developer at Hydrologic using React, Tailwind, and Firebase to display statistics for UIUC University Housing. Furthermore, I have held a active software roles within UIUC's EV Concept and Vex Robotics teams, working on machine learning and computer vision projects. 
+### Previous Experience 🌱
+- Embedded Systems Engineer @ JACS Solutions
+- Project Manager @ Hydrologic
+- Electrical Team @ UIUC EV Concept
 
-Some topics I am currently interested in include: parallel programming, embedded systems, cloud computing, AI/ML, distributed systems
-
-Here is my [personal website](https://owenwang.netlify.app/) so you can learn more about me!
+Personal Website: [personal website](https://owenwang.netlify.app/) 
 
 ### Frameworks 💻
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
