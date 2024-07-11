@@ -4,8 +4,9 @@ I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Machine
 
 ### Previous Experience 🌱
 - Embedded Systems Engineer @ JACS Solutions
-- Project Manager @ Hydrologic
+- Project Lead @ Hydrologic
 - Electrical Team @ UIUC EV Concept
+- Sofware Team @ UIUC VEX Robotics
 
 Personal Website: [personal website](https://owenwang.netlify.app/) 
 
