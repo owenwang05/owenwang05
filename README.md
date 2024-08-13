@@ -8,7 +8,8 @@ I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Machine
 - Electrical Team @ UIUC EV Concept
 
 ### Currently Working On 👷
-- BitPredict - program that predicts the closing day price of bitcoin 
+- Road Rage - program that detects surrounding dangerous driving 
+- Chain GPT - program that serves as a langchain documentation assistant
 - SkimLit - program that classifies and summarizes abstracts
 - Food Vision - program that classifies food from images
 
