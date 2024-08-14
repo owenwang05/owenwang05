@@ -8,10 +8,7 @@ I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Machine
 - Electrical Team @ UIUC EV Concept
 
 ### Currently Working On 👷
-- Road Rage - program that detects surrounding dangerous driving 
-- Chain GPT - program that serves as a langchain documentation assistant
-- SkimLit - program that classifies and summarizes abstracts
-- Food Vision - program that classifies food from images
+- Road Test - program that automates the driving tests. 
 
 Personal Website: [personal website](https://owenwang.netlify.app/) 
 
