@@ -1,14 +1,14 @@
 ## Hey! Nice to meet you! 👋
 
-I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Machine Learning, Embedded Systems, Parallel Programming, and Full-Stack Development. My goal is to utilize these technologies to address relevant issues within society. 
+I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Machine Learning, Full-Stack Development, Embedded Systems, and Parallel Programming. My goal is to utilize these technologies to address relevant issues within society. 
 
 ### Previous Experience 🌱
-- Systems Engineering Intern @ JACS Solutions
+- Software Engineering Intern @ JACS Solutions
 - Project Lead @ Hydrologic
 - Electrical Team @ UIUC EV Concept
 
 ### Currently Working On 👷
-- Road Test - program that automates the driving tests. 
+- Road Test - program that automates the driving lessons. 
 
 Personal Website: [personal website](https://owenwang.netlify.app/) 
 
