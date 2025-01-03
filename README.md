@@ -4,7 +4,7 @@ I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Full-St
 
 ### Previous Experience 🌱
 - Incoming Summer Associate Data Engineer Intern @ Balyasny
-- Incoming Software Developer Intern @ Country Financial 
+- Software Developer Intern @ Country Financial 
 - Software Developer Intern @ Oncosoft
 - Software Engineer Intern @ JACS Solutions
 
@@ -16,8 +16,8 @@ Personal Website: [personal website](https://owenwang.netlify.app/)
 ### Frameworks 💻
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
