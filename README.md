@@ -1,9 +1,9 @@
 ## Hey! Nice to meet you! 👋
 
-I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Full-Stack Development, Quantitative Finance, and Artificial Intelligence/Machine Learning. My goal is to utilize these technologies to address relevant issues within society. 
+I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Full-Stack Development, Quantitative Finance, Distributed Systems and Artificial Intelligence/Machine Learning. My goal is to utilize these technologies to address relevant issues within society. 
 
 ### Previous Experience 🌱
-- Incoming Summer Associate Data Engineer @ Balyasny
+- Summer Associate Data Engineer @ Balyasny
 - Software Developer Intern @ Country Financial 
 - Software Developer Intern @ Oncosoft
 - Software Engineer Intern @ JACS Solutions
@@ -33,6 +33,7 @@ Personal Website: [personal website](https://owenwang.netlify.app/)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
