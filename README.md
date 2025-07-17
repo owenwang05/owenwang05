@@ -9,7 +9,7 @@ I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Full-St
 - Software Engineer Intern @ JACS Solutions
 
 ### Currently Working On 👷
-- No pending projects!
+- Carsties, car auction site w/ microservice architecture
 
 Personal Website: [personal website](https://owenwang.netlify.app/) 
 
