@@ -10,7 +10,7 @@ I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Full-St
 - Software Engineer Intern @ JACS Solutions
 
 ### Currently Working On 👷
-- ...
+- Strava Betting App
 
 Personal Website: [personal website](https://owenwang.netlify.app/) 
 
