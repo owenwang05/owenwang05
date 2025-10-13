@@ -11,6 +11,7 @@ I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Full-St
 
 ### Currently Working On 👷
 - Strava Betting App
+- Microservice Auction App
 
 Personal Website: [personal website](https://owenwang.netlify.app/) 
 
