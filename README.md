@@ -5,8 +5,8 @@ I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Full-St
 ### Previous Experience 🌱
 - Incoming Data Engineer @ Balyasny
 - Summer Associate Data Engineer @ Balyasny
-- Software Developer Intern @ Country Financial 
-- Software Developer Intern @ Oncosoft
+- Software Engineer Intern @ Country Financial 
+- Software Engineer Intern @ Oncosoft
 - Software Engineer Intern @ JACS Solutions
 
 ### Currently Working On 👷
