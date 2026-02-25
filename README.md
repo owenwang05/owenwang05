@@ -1,9 +1,9 @@
 ## Hey! Nice to meet you! 👋
 
-I'm Owen, a Computer Engineering student @ UIUC. I am most interested in Full-Stack Development, Quantitative Finance, Distributed Systems and Artificial Intelligence/Machine Learning. My goal is to utilize these technologies to address relevant issues within society. 
+I'm Owen, a Computer Engineering Alum @ UIUC. I am most interested in Software Engineering, Quantitative Finance, and Distributed Systems. My goal is to utilize these technologies to address relevant issues within society. 
 
 ### Previous Experience 🌱
-- Incoming Data Engineer @ Balyasny
+- Data Engineer @ Balyasny
 - Summer Associate Data Engineer @ Balyasny
 - Software Engineer Intern @ Country Financial 
 - Software Engineer Intern @ Oncosoft
