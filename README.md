@@ -6,6 +6,7 @@ I'm Owen, a Computer Engineering Alum @ UIUC. I am most interested in Software E
 - Data Engineer @ Balyasny
 - Summer Associate Data Engineer @ Balyasny
 - Software Engineer Intern @ Oncosoft (Series B)
+- Software Engineer @ Disruption Lab
 - Software Engineer Intern @ JACS Solutions
 
 ### Currently Working On 👷
