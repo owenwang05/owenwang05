@@ -1,6 +1,6 @@
 ## Hey! Nice to meet you! 👋
 
-I'm Owen, a Computer Engineering Alum @ UIUC. I am most interested in Software Engineering, Quantitative Finance, and Distributed Systems. My goal is to utilize these technologies to address relevant issues within society. 
+I'm Owen, a Computer Engineering Alum @ UIUC working as a Data Engineer @ Balyasny Asset Management. I am most interested in Software Engineering, Quantitative Finance, and Distributed Systems. My goal is to utilize these technologies to address relevant issues within society. 
 
 ### Previous Experience 🌱
 - Data Engineer @ Balyasny
@@ -10,6 +10,7 @@ I'm Owen, a Computer Engineering Alum @ UIUC. I am most interested in Software E
 - Software Engineer Intern @ JACS Solutions
 
 ### Currently Working On 👷
+- Agentic Marketplace
 - Strava Betting App
 - Microservice Auction App
 
