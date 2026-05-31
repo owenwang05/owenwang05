@@ -5,7 +5,8 @@ I'm Owen, a Computer Engineering Alum @ UIUC working as a Data Engineer @ Balyas
 ### Previous Experience 🌱
 - Data Engineer @ Balyasny Asset Management  
 - Summer Associate Data Engineer @ Balyasny Asset Management
-- Software Engineer Intern @ Oncosoft (Series B) 
+- Software Engineer @ Oncosoft (Series B)
+- Software Engineer Intern @ Country Financial
 - Software Engineer @ Disruption Lab
 - Software Engineer Intern @ JACS Solutions
 
