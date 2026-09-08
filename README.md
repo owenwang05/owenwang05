@@ -1,9 +1,9 @@
 ## Hey! Nice to meet you! 👋
 
-I'm Owen, a Computer Engineering Alum @ UIUC working as a Data Engineer @ Balyasny Asset Management. I am most interested in Software Engineering, Quantitative Development, and Large-Scale Systems. My goal is to utilize these technologies to address relevant issues within society. 
+I'm Owen, a Data Engineer @ Balyasny Asset Management and UIUC Computer Engineering Alum. I am most interested in Software Engineering, Quantitative Development, and Large-Scale Systems. My goal is to utilize these technologies to address relevant issues within society. 
 
-### Previous Experience 🌱
-- Data Engineer @ Balyasny Asset Management  
+### Experience 🌱
+- Data Engineer @ Balyasny Asset Management (current)
 - Summer Associate Data Engineer @ Balyasny Asset Management
 - Software Engineer @ Oncosoft (Series B)
 - Software Engineer Intern @ Country Financial
